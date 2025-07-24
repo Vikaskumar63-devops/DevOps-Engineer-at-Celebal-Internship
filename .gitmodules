@@ -1,0 +1,63 @@
+[submodule "Celebal-Permissions"]
+	path = Celebal-Permissions
+	url = https://github.com/Vikaskumar63-devops/Celebal-Permissions
+[submodule "my-project"]
+	path = my-project
+	url = https://github.com/Vikaskumar63-devops/my-project
+[submodule "my-project1"]
+	path = my-project1
+	url = https://github.com/Vikaskumar63-devops/my-project1
+[submodule "your-repository"]
+	path = your-repository
+	url = https://github.com/Vikaskumar63-devops/your-repository
+[submodule "vagrant-linux-windows-vms"]
+	path = vagrant-linux-windows-vms
+	url = https://github.com/Vikaskumar63-devops/vagrant-linux-windows-vms
+[submodule "my-welcome-site"]
+	path = my-welcome-site
+	url = https://github.com/Vikaskumar63-devops/my-welcome-site
+[submodule "ACR-and-pull-image"]
+	path = ACR-and-pull-image
+	url = https://github.com/Vikaskumar63-devops/ACR-and-pull-image-
+[submodule "Container-Instance"]
+	path = Container-Instance
+	url = https://github.com/Vikaskumar63-devops/Container-Instance-and-deploy-a-simple-docker-application-on-it.-Create-Container-Groups
+[submodule "azure-vnet-hub-spoke"]
+	path = azure-vnet-hub-spoke
+	url = https://github.com/Vikaskumar63-devops/azure-vnet-hub-spoke
+[submodule "azure-load-balancer"]
+	path = azure-load-balancer
+	url = https://github.com/Vikaskumar63-devops/azure-load-balancer
+[submodule "azure-app-gateway"]
+	path = azure-app-gateway
+	url = https://github.com/Vikaskumar63-devops/azure-app-gateway
+[submodule "azure-domain-vm-dns"]
+	path = azure-domain-vm-dns
+	url = https://github.com/Vikaskumar63-devops/azure-domain-vm-dns
+[submodule "Azure-Storage"]
+	path = Azure-Storage
+	url = https://github.com/Vikaskumar63-devops/Azure-Storage-
+[submodule "Assignment-Week-2"]
+	path = Assignment-Week-2
+	url = https://github.com/Vikaskumar63-devops/Assignment-Week-2
+[submodule "WEEK-3-Assignment"]
+	path = WEEK-3-Assignment
+	url = https://github.com/Vikaskumar63-devops/WEEK--3-Assignment-
+[submodule "Assigment-4"]
+	path = Assigment-4
+	url = https://github.com/Vikaskumar63-devops/Assigment-4-
+[submodule "Assigment-week-5"]
+	path = Assigment-week-5
+	url = https://github.com/Vikaskumar63-devops/Assigment-week--5-
+[submodule "Week-6-Assignment"]
+	path = Week-6-Assignment
+	url = https://github.com/Vikaskumar63-devops/Week--6-Assignment-
+[submodule "Week-7"]
+	path = Week-7
+	url = https://github.com/Vikaskumar63-devops/Week--7-
+[submodule "Azure-VM-Load-Balancer"]
+	path = Azure-VM-Load-Balancer
+	url = https://github.com/Vikaskumar63-devops/Azure-Virtual-Machine-Load-Balancing-using-Azure-Load-balancer
+[submodule "WEEK-8-Azure-DevOps"]
+	path = WEEK-8-Azure-DevOps
+	url = https://github.com/Vikaskumar63-devops/WEEK--8-Azure-DevOps
