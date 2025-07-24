@@ -1,6 +1,6 @@
 # DevOps Engineer at Celebal Internship
 
-This repository contains all the tasks, assignments, and project work completed during my internship as a **DevOps Engineer at Celebal Technologies** (May 2024 – July 2024).
+This repository contains all the tasks, assignments, and project work completed during my internship as a **DevOps Engineer at Celebal Technologies** (May 2025 – July 2025).
 
 The projects showcase hands-on skills in DevOps practices using Microsoft Azure, Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code, and cloud-based application deployments.
 
